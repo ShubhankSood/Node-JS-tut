@@ -1,0 +1,13 @@
+{
+  "name": "my-package",
+  "version": "1.0.1",
+  "description": "cdcnsvjsfnvnfv",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "NPM.js",
+  "scripts": {
+    "start": "node NPM.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
